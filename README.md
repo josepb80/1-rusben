@@ -1,8 +1,7 @@
-<h1>Hola!</h1>
+<h1>Doraemon</h1>
 
-<h2>De que conozco a jansen?</h2>
+<h2>De donde sale?</h2>
 
-<p>El jansen es un compañero de de la escuela y el instituto Terra Roja, es un niño muy especial</p>
+<p>Doraemon en un principio era un Manga hecho por Fujiko Fujio, en total creó 45 volúmenes.</p>
 
-![imatge](https://github.com/user-attachments/assets/ac45c871-706c-4339-b07b-32a788b595fa)
-
+![imatge](https://github.com/user-attachments/assets/eab74366-4f44-4da2-b67f-163c3e1591b5)
