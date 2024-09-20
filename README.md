@@ -23,4 +23,4 @@ Es un niño rico y mano derecha de gigante
 
 <h3>Información</h3>
 
-Toda la información la he sacado de la [wikipedia de doraemon](https://ca.wikipedia.org/wiki/Doraemon)
+Toda la información la he sacado de la [vikipedia de doraemon](https://ca.wikipedia.org/wiki/Doraemon)
