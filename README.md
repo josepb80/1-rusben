@@ -21,6 +21,8 @@ Es el maton y amigo de Nobita
 - <strong>Suneo</strong>
 Es un niño rico y mano derecha de gigante
 
+![imatge](https://github.com/user-attachments/assets/348d2af3-baed-4a9c-9adc-dc11848a39c0)
+
 <h3>Información</h3>
 
 Toda la información la he sacado de la [vikipedia de doraemon](https://ca.wikipedia.org/wiki/Doraemon)
