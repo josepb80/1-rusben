@@ -2,7 +2,7 @@
 
 <h3>Manga</h3>
 
-Doraemon en un principio era un manga hecho por [Fujiko Fujio](https://github.com/josepb80/GNU.git) que fue el seudónimo de Hiroshi Fujimoto y Motoo Abiko, en total crearon 45 volúmenes.
+Doraemon en un principio era un manga creado por [Fujiko Fujio](https://github.com/josepb80/GNU.git) que fue el seudónimo de Hiroshi Fujimoto y Motoo Abiko, un duo que inició con todo, en total crearon 45 volúmenes.
 
 <h3>Anime</h3>
 
