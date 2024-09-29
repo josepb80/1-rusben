@@ -26,12 +26,13 @@ Su primera emisión fue el 2 de abril de 1979 y acabó el 18 de marzo de 2005. H
 
 <h3>Doraemon 2005</h3>
 
-Fue dirigida por tres autores 
+Fue dirigida por tres autores distintos, Soichiro Zen (2005-2017), Shinnosuke Yakuwa (2017-2018) y Hirofumi Ogura (2020-presente). Y fue hecha por el mismo estudio que el de 1979, Shin-Ei Animation.
+
+Su primera emisión fue el 15 de abril de 2005 y continúa hasta la actualidad, hasta ahora hay 1.160 capitulos cuyos 71 fueron especiales.
 
 ![image](https://github.com/user-attachments/assets/ece87a2a-c5f1-47d2-9bf8-764db7231bee)
 
-
-Hasta la fecha hay <strong>más de 2000 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.
+Hasta la fecha hay <strong>más de 2800 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.
 
 Gracias a la serie Doraemon se volvió internacional y reconocible por todo el mundo, acutualmente se considera un hito japonés.
 
