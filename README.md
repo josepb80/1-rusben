@@ -2,7 +2,7 @@
 
 <h2>Manga</h2>
 
-Doraemon en un principio era un manga creado por [Fujiko Fujio](https://github.com/josepb80/GNU.git) que fue el seudónimo de Hiroshi Fujimoto y Motoo Abiko, un duo que inició con todo, en total crearon 45 volúmenes.
+Doraemon en un principio era un manga creado por <strong>Fujiko Fujio</strong> que fue el seudónimo de Hiroshi Fujimoto y Motoo Abiko, un duo que inició con todo, en total crearon 45 volúmenes.
 
 <h2>Anime</h2>
 
@@ -32,7 +32,7 @@ Su primera emisión fue el 15 de abril de 2005 y continúa hasta la actualidad, 
 
 ![image](https://github.com/user-attachments/assets/ece87a2a-c5f1-47d2-9bf8-764db7231bee)
 
-Hasta la fecha hay <strong>más de 2800 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.
+Hasta la fecha hay <strong>más de 2800 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon [43 películas](https://github.com/josepb80/GNU.git)
 
 Gracias a la serie Doraemon se volvió internacional y reconocible por todo el mundo, acutualmente se considera un hito japonés.
 
