@@ -12,7 +12,7 @@ Gracias a la serie Doraemon se volvió internacional y reconocible por todo el m
 
 ![imatge](https://github.com/user-attachments/assets/24b1f0c8-1bfc-496e-a637-455739ef7b54)
 
-<h2>personajes</h2>
+<h2>Personajes</h2>
 
 - <strong>Doremon</strong>
 Es un gato cosmico del siglo XXI que tiene fobia a los ratones por una mala experiencia en el pasado
