@@ -32,7 +32,7 @@ Su primera emisión fue el 15 de abril de 2005 y continúa hasta la actualidad, 
 
 ![image](https://github.com/user-attachments/assets/ece87a2a-c5f1-47d2-9bf8-764db7231bee)
 
-Hasta la fecha hay <strong>más de 2800 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon [43 películas](https://github.com/josepb80/GNU.git)
+Hasta la fecha hay <strong>más de 2800 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon [43 películas](https://github.com/josepb80/GNU.git).
 
 Gracias a la serie Doraemon se volvió internacional y reconocible por todo el mundo, acutualmente se considera un hito japonés.
 
