@@ -6,7 +6,9 @@ Doraemon en un principio era un manga creado por [Fujiko Fujio](https://github.c
 
 <h3>Anime</h3>
 
-Con la gran popularidad del manga decidieron crear una serie animada sobre él y dirigida por 3 personas diferentes, Soichiro Zen (2005-2017), Shinnosuke Yakuwa (2017-2018) y Hirofumi Ogura (2020-presente). Hasta la fecha hay 1787 capitulos y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.
+Con la gran popularidad del manga decidieron crear una serie animada sobre él y dirigida por 3 personas diferentes, Soichiro Zen (2005-2017), Shinnosuke Yakuwa (2017-2018) y Hirofumi Ogura (2020-presente). Hasta la fecha hay <strong>1787 capitulos</strong> y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.
+
+Gracias a la serie Doraemon se volvió internacional y reconocible por todo el mundo, acutualmente se considera un hito japonés.
 
 ![imatge](https://github.com/user-attachments/assets/24b1f0c8-1bfc-496e-a637-455739ef7b54)
 
