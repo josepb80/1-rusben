@@ -2,7 +2,7 @@
 
 <h3>Inicio</h3>
 
-<p>Doraemon en un principio era un manga hecho por <strong>Fujiko Fujio</strong>, en total creó 45 volúmenes.</p>
+Doraemon en un principio era un manga hecho por [Fujiko Fujio](https://github.com/josepb80/GNU.git), en total creó 45 volúmenes.
 
 <p>Con la gran popularidad del manga decidieron crear una serie animada sobre él y dirigida por el mismo creador, hasta la fecha hay 1787 capitulos y aún se siguen creando más. También aparte de la serie crearon bastantes películas, en total hay 43.</p>
 
